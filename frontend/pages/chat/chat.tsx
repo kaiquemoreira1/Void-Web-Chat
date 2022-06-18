@@ -1,4 +1,4 @@
-import { AppRoutes } from "../../Routes";
+import { AppRoutes } from "../../src/Routes";
 
 export function Chat() {
     return (
